@@ -1,0 +1,31 @@
+System_ID,System_Name,System_Type,Criticality,Owner,Location,Last_Patched_Date,Compliance_Required,Environment
+SYS-001,Payment Gateway,Network Device,Critical,IT Operations,Branch Office,2025-09-26,Yes,Production
+SYS-002,Customer Portal,Server,Low,Finance,San Diego HQ,2025-08-17,Yes,Production
+SYS-003,HR Database,Application,Critical,HR,San Diego HQ,2025-08-28,Yes,Production
+SYS-004,Email Server,Server,High,Customer Service,San Diego HQ,2025-09-04,Yes,Production
+SYS-005,SCADA Controller,Server,Medium,Security,Branch Office,2025-09-07,Yes,Production
+SYS-006,Billing Engine,Application,High,IT Operations,Branch Office,2025-09-18,Yes,Production
+SYS-007,Mobile App Backend,Database,Medium,Finance,Remote Cloud,2025-10-28,Yes,DR
+SYS-008,Vendor Portal,Database,Critical,HR,San Diego HQ,2025-07-17,Yes,Production
+SYS-009,VPN Gateway,Server,Critical,Customer Service,Branch Office,2025-10-02,Yes,Production
+SYS-010,Network Firewall,Application,High,Security,Remote Cloud,2025-10-23,Yes,Production
+SYS-011,Active Directory,Server,Low,IT Operations,Branch Office,2025-10-22,No,Development
+SYS-012,Inventory DB,Application,High,Finance,San Diego HQ,2025-10-11,Yes,Development
+SYS-013,Field Device Manager,Server,Medium,HR,Branch Office,2025-09-20,No,DR
+SYS-014,Metering DB,Application,High,Customer Service,San Diego HQ,2025-07-20,Yes,Production
+SYS-015,Asset Repository,Application,Low,Security,Remote Cloud,2025-10-16,No,Production
+SYS-016,Telemetry Collector,Database,Low,IT Operations,Branch Office,2025-09-03,Yes,Production
+SYS-017,Procurement System,Application,High,Finance,Remote Cloud,2025-08-24,Yes,Staging
+SYS-018,Work Order System,Database,High,HR,San Diego HQ,2025-08-27,Yes,Production
+SYS-019,CRM,Application,Critical,Customer Service,San Diego HQ,2025-07-22,Yes,Production
+SYS-020,Backup Server,Network Device,Low,Security,Remote Cloud,2025-10-28,No,Production
+SYS-021,Logging Cluster,Server,Low,IT Operations,Branch Office,2025-09-27,No,Development
+SYS-022,Analytics Platform,Database,Critical,Finance,Remote Cloud,2025-10-15,Yes,DR
+SYS-023,LDAP Server,Server,Critical,HR,San Diego HQ,2025-07-12,Yes,Production
+SYS-024,Patch Management,Application,Critical,Customer Service,Branch Office,2025-10-11,No,Staging
+SYS-025,Payment Tokenization,Network Device,High,Security,San Diego HQ,2025-10-17,Yes,Production
+SYS-026,Dev CI/CD,Application,Critical,IT Operations,Remote Cloud,2025-10-27,Yes,Production
+SYS-027,DR Site Controller,Application,Medium,Finance,Remote Cloud,2025-10-10,Yes,Staging
+SYS-028,Remote Access Proxy,Database,Low,HR,Remote Cloud,2025-10-22,No,Development
+SYS-029,Public Website,Database,Low,Customer Service,Branch Office,2025-09-14,Yes,Staging
+SYS-030,Vendor API Gateway,Database,Critical,Security,San Diego HQ,2025-10-23,Yes,Production

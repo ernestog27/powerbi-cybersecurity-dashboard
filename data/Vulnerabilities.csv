@@ -1,0 +1,501 @@
+Vulnerability_ID,Date_Discovered,System_ID,Vulnerability_Type,Severity,CVSS_Score,Status,Date_Closed,Days_To_Remediate,Remediation_Owner,Business_Impact,Exploit_Available
+VUL-2024-0001,2025-06-13,SYS-008,Outdated Software,High,7.5,Closed,2025-07-01,18,Development Team,High,No
+VUL-2024-0002,2024-04-03,SYS-024,Weak Authentication,Critical,9.0,Open,,,Development Team,High,No
+VUL-2024-0003,2024-05-16,SYS-022,Misconfiguration,Critical,9.9,In Progress,,,Security Team,High,No
+VUL-2024-0004,2025-06-04,SYS-024,Cross-Site Scripting,Medium,6.8,Closed,2025-06-19,15,Infrastructure Team,Medium,No
+VUL-2024-0005,2024-12-31,SYS-023,SQL Injection,Medium,5.7,Closed,2025-01-16,16,IT Operations,Medium,No
+VUL-2024-0006,2025-06-26,SYS-030,SQL Injection,Critical,9.3,Open,,,IT Operations,High,No
+VUL-2024-0007,2025-07-27,SYS-016,Outdated Software,High,8.8,In Progress,,,Security Team,High,No
+VUL-2024-0008,2025-04-30,SYS-018,Misconfiguration,Critical,9.5,In Progress,,,Security Team,High,Yes
+VUL-2024-0009,2025-10-09,SYS-026,Cross-Site Scripting,Low,3.0,Closed,2025-10-23,14,Security Team,Low,Yes
+VUL-2024-0010,2025-07-06,SYS-016,Outdated Software,Critical,9.8,Closed,2025-09-06,62,IT Operations,High,No
+VUL-2024-0011,2025-03-17,SYS-029,SQL Injection,Low,1.0,Closed,2025-03-27,10,Development Team,Low,No
+VUL-2024-0012,2025-04-16,SYS-014,SQL Injection,High,7.2,Closed,2025-05-14,28,Security Team,High,No
+VUL-2024-0013,2025-03-12,SYS-013,Buffer Overflow,Low,2.2,In Progress,,,Security Team,Low,No
+VUL-2024-0014,2025-05-11,SYS-004,Misconfiguration,Medium,6.8,Closed,2025-05-29,18,Development Team,Medium,No
+VUL-2024-0015,2025-06-20,SYS-009,SQL Injection,High,8.6,Closed,2025-07-03,13,Security Team,High,No
+VUL-2024-0016,2024-07-02,SYS-018,Weak Authentication,High,8.8,Closed,2024-07-29,27,Security Team,High,No
+VUL-2024-0017,2024-11-02,SYS-008,Misconfiguration,Medium,4.3,Closed,2024-11-18,16,Security Team,Medium,Yes
+VUL-2024-0018,2024-03-19,SYS-030,SQL Injection,Medium,6.9,Closed,2024-04-04,16,IT Operations,Medium,No
+VUL-2024-0019,2025-06-13,SYS-014,Outdated Software,High,7.6,Closed,2025-07-10,27,IT Operations,High,No
+VUL-2024-0020,2025-10-07,SYS-020,Outdated Software,Medium,5.9,Closed,2025-10-24,17,IT Operations,Medium,No
+VUL-2024-0021,2025-05-16,SYS-009,Cross-Site Scripting,Critical,9.3,In Progress,,,Security Team,High,Yes
+VUL-2024-0022,2024-06-26,SYS-020,Weak Authentication,Medium,6.3,Closed,2024-07-09,13,IT Operations,Medium,No
+VUL-2024-0023,2025-07-03,SYS-002,Outdated Software,Low,2.4,In Progress,,,Security Team,Low,No
+VUL-2024-0024,2025-05-31,SYS-008,Misconfiguration,Medium,5.4,Closed,2025-06-14,14,Development Team,Medium,No
+VUL-2024-0025,2024-01-08,SYS-030,Misconfiguration,Medium,5.7,Closed,2024-01-25,17,IT Operations,Low,No
+VUL-2024-0026,2025-02-15,SYS-028,Cross-Site Scripting,Medium,6.9,Closed,2025-03-04,17,IT Operations,Medium,No
+VUL-2024-0027,2024-11-22,SYS-003,Cross-Site Scripting,High,7.6,Closed,2024-12-17,25,Infrastructure Team,Medium,No
+VUL-2024-0028,2025-01-11,SYS-008,SQL Injection,Medium,6.8,Open,,,IT Operations,Medium,No
+VUL-2024-0029,2024-03-12,SYS-020,Misconfiguration,Low,2.5,Closed,2024-03-24,12,IT Operations,Low,No
+VUL-2024-0030,2025-01-23,SYS-015,SQL Injection,Medium,6.8,Open,,,Security Team,Medium,No
+VUL-2024-0031,2024-04-27,SYS-027,Misconfiguration,High,8.8,Closed,2024-05-20,23,Development Team,High,Yes
+VUL-2024-0032,2025-07-16,SYS-008,Misconfiguration,High,7.3,Open,,,Development Team,High,No
+VUL-2024-0033,2024-12-30,SYS-024,Outdated Software,Critical,9.8,In Progress,,,Development Team,High,No
+VUL-2024-0034,2025-01-11,SYS-018,Misconfiguration,Critical,9.4,Closed,2025-02-17,37,Security Team,High,No
+VUL-2024-0035,2025-03-08,SYS-026,Outdated Software,Medium,4.1,In Progress,,,Security Team,Medium,No
+VUL-2024-0036,2025-10-16,SYS-030,Cross-Site Scripting,High,8.0,In Progress,,,Security Team,Medium,Yes
+VUL-2024-0037,2024-03-28,SYS-021,Cross-Site Scripting,High,7.1,Closed,2024-04-20,23,IT Operations,High,No
+VUL-2024-0038,2025-07-28,SYS-017,Outdated Software,High,8.2,Open,,,IT Operations,High,No
+VUL-2024-0039,2024-09-08,SYS-023,Outdated Software,High,8.9,Closed,2024-10-07,29,IT Operations,Medium,Yes
+VUL-2024-0040,2025-06-10,SYS-010,Outdated Software,Medium,4.4,Closed,2025-06-27,17,IT Operations,Medium,No
+VUL-2024-0041,2025-04-13,SYS-019,Cross-Site Scripting,Low,2.0,Closed,2025-04-21,8,IT Operations,Low,No
+VUL-2024-0042,2024-06-01,SYS-027,Misconfiguration,Medium,6.6,Closed,2024-06-18,17,Security Team,Low,No
+VUL-2024-0043,2024-10-31,SYS-013,Cross-Site Scripting,Critical,9.5,Closed,2024-12-30,60,Security Team,High,No
+VUL-2024-0044,2024-05-19,SYS-010,Outdated Software,Medium,6.9,Closed,2024-06-08,20,Development Team,Medium,Yes
+VUL-2024-0045,2025-08-25,SYS-023,SQL Injection,Medium,6.6,In Progress,,,Development Team,Medium,No
+VUL-2024-0046,2024-04-07,SYS-019,Weak Authentication,Medium,6.2,Open,,,IT Operations,Low,No
+VUL-2024-0047,2024-10-15,SYS-001,Outdated Software,Critical,9.7,In Progress,,,Development Team,High,Yes
+VUL-2024-0048,2024-02-18,SYS-026,Outdated Software,Critical,9.5,Closed,2024-04-01,43,Security Team,High,No
+VUL-2024-0049,2025-10-31,SYS-024,Buffer Overflow,High,8.7,Closed,2025-11-19,19,Security Team,Medium,Yes
+VUL-2024-0050,2025-05-22,SYS-030,Misconfiguration,Medium,5.1,Closed,2025-06-03,12,IT Operations,Medium,No
+VUL-2024-0051,2025-05-19,SYS-012,Weak Authentication,High,8.8,In Progress,,,Security Team,Medium,No
+VUL-2024-0052,2025-09-08,SYS-021,Weak Authentication,Medium,6.4,Closed,2025-09-20,12,Security Team,Medium,Yes
+VUL-2024-0053,2025-10-04,SYS-003,Misconfiguration,Low,0.6,Closed,2025-10-11,7,Infrastructure Team,Low,No
+VUL-2024-0054,2025-02-19,SYS-023,Cross-Site Scripting,Critical,9.9,Closed,2025-04-20,60,IT Operations,High,No
+VUL-2024-0055,2025-10-02,SYS-022,Cross-Site Scripting,High,7.8,Open,,,Infrastructure Team,High,No
+VUL-2024-0056,2025-04-02,SYS-012,Cross-Site Scripting,High,8.8,Closed,2025-04-28,26,Security Team,High,No
+VUL-2024-0057,2024-01-11,SYS-008,Cross-Site Scripting,Low,3.1,Closed,2024-01-16,5,Development Team,Low,No
+VUL-2024-0058,2024-04-28,SYS-008,Buffer Overflow,Medium,4.4,Closed,2024-05-11,13,Development Team,Medium,No
+VUL-2024-0059,2024-06-06,SYS-003,SQL Injection,Medium,4.4,Open,,,IT Operations,Medium,No
+VUL-2024-0060,2024-02-14,SYS-017,Buffer Overflow,Critical,9.1,Open,,,IT Operations,High,Yes
+VUL-2024-0061,2025-04-24,SYS-024,Weak Authentication,Low,2.1,Closed,2025-04-28,4,Security Team,Low,No
+VUL-2024-0062,2025-07-14,SYS-022,Misconfiguration,High,8.4,Closed,2025-08-03,20,Security Team,High,Yes
+VUL-2024-0063,2024-07-21,SYS-019,Buffer Overflow,Low,1.3,Closed,2024-08-03,13,IT Operations,Low,No
+VUL-2024-0064,2024-02-23,SYS-003,Weak Authentication,Medium,5.9,Open,,,IT Operations,Low,No
+VUL-2024-0065,2025-07-13,SYS-013,SQL Injection,Low,1.3,In Progress,,,Infrastructure Team,Low,No
+VUL-2024-0066,2025-01-03,SYS-025,SQL Injection,Critical,9.4,Open,,,IT Operations,High,No
+VUL-2024-0067,2025-03-11,SYS-022,Outdated Software,Medium,5.0,In Progress,,,Development Team,Medium,No
+VUL-2024-0068,2025-03-12,SYS-003,Misconfiguration,Low,0.9,Closed,2025-03-19,7,Development Team,Low,No
+VUL-2024-0069,2025-03-04,SYS-024,Misconfiguration,Medium,4.7,Open,,,IT Operations,Medium,No
+VUL-2024-0070,2024-01-09,SYS-022,Outdated Software,Low,3.6,Closed,2024-01-19,10,Development Team,Low,No
+VUL-2024-0071,2024-12-05,SYS-023,SQL Injection,Critical,9.1,Closed,2025-01-27,53,IT Operations,High,No
+VUL-2024-0072,2024-11-24,SYS-009,Misconfiguration,Medium,5.7,Closed,2024-12-13,19,Development Team,Medium,Yes
+VUL-2024-0073,2025-01-14,SYS-015,Outdated Software,Low,1.7,Open,,,Security Team,Low,No
+VUL-2024-0074,2025-05-19,SYS-016,Weak Authentication,Critical,9.3,Closed,2025-07-17,59,IT Operations,High,Yes
+VUL-2024-0075,2024-10-07,SYS-024,Buffer Overflow,Critical,9.3,Closed,2024-11-12,36,IT Operations,High,No
+VUL-2024-0076,2024-02-18,SYS-022,Misconfiguration,Medium,5.6,Open,,,Security Team,Medium,No
+VUL-2024-0077,2025-01-03,SYS-026,Misconfiguration,Low,1.7,In Progress,,,Security Team,Low,No
+VUL-2024-0078,2025-10-06,SYS-024,Weak Authentication,High,7.9,Closed,2025-10-31,25,Development Team,High,No
+VUL-2024-0079,2025-02-13,SYS-026,Buffer Overflow,Low,1.4,Open,,,IT Operations,Low,No
+VUL-2024-0080,2025-02-25,SYS-010,Buffer Overflow,Low,3.7,Open,,,Security Team,Low,No
+VUL-2024-0081,2024-03-05,SYS-024,Weak Authentication,Medium,4.2,Closed,2024-03-22,17,Development Team,Low,No
+VUL-2024-0082,2025-10-19,SYS-021,Weak Authentication,Low,1.3,Closed,2025-10-23,4,IT Operations,Low,No
+VUL-2024-0083,2025-04-26,SYS-008,SQL Injection,High,7.7,Closed,2025-05-19,23,IT Operations,High,No
+VUL-2024-0084,2024-02-28,SYS-030,SQL Injection,Low,2.4,Closed,2024-03-07,8,IT Operations,Low,No
+VUL-2024-0085,2025-05-02,SYS-014,Misconfiguration,High,8.2,Closed,2025-05-24,22,IT Operations,Medium,No
+VUL-2024-0086,2025-06-27,SYS-010,Buffer Overflow,High,7.2,Closed,2025-07-25,28,Development Team,Medium,No
+VUL-2024-0087,2025-04-12,SYS-011,Outdated Software,Critical,9.4,Closed,2025-06-02,51,IT Operations,High,No
+VUL-2024-0088,2025-04-03,SYS-009,Misconfiguration,High,8.3,Closed,2025-05-02,29,Development Team,Medium,No
+VUL-2024-0089,2024-03-03,SYS-019,Cross-Site Scripting,High,8.7,In Progress,,,Security Team,Medium,Yes
+VUL-2024-0090,2025-03-21,SYS-024,Cross-Site Scripting,Low,2.6,Open,,,IT Operations,Low,No
+VUL-2024-0091,2024-11-12,SYS-009,Cross-Site Scripting,Medium,5.0,Closed,2024-11-26,14,Infrastructure Team,Medium,No
+VUL-2024-0092,2025-06-17,SYS-024,Buffer Overflow,Medium,6.6,Open,,,IT Operations,Medium,No
+VUL-2024-0093,2025-05-20,SYS-024,Cross-Site Scripting,High,8.4,Closed,2025-06-17,28,IT Operations,High,No
+VUL-2024-0094,2024-09-24,SYS-024,Cross-Site Scripting,Low,2.1,Closed,2024-10-03,9,Infrastructure Team,Low,No
+VUL-2024-0095,2025-05-19,SYS-030,Misconfiguration,Medium,6.2,Closed,2025-06-04,16,IT Operations,Medium,No
+VUL-2024-0096,2025-03-28,SYS-008,Weak Authentication,Medium,5.4,Closed,2025-04-12,15,Security Team,Low,No
+VUL-2024-0097,2024-09-25,SYS-005,Outdated Software,Low,3.5,Closed,2024-10-05,10,Infrastructure Team,Low,No
+VUL-2024-0098,2025-01-12,SYS-028,Outdated Software,Medium,4.2,Closed,2025-01-23,11,Security Team,Medium,No
+VUL-2024-0099,2024-11-04,SYS-025,Weak Authentication,Medium,5.0,Closed,2024-11-13,9,Security Team,Low,No
+VUL-2024-0100,2024-03-23,SYS-014,Weak Authentication,Medium,4.0,Closed,2024-04-09,17,Security Team,Medium,No
+VUL-2024-0101,2025-04-14,SYS-003,Outdated Software,Medium,4.7,Closed,2025-04-27,13,IT Operations,Low,No
+VUL-2024-0102,2024-02-29,SYS-016,Misconfiguration,High,7.0,In Progress,,,IT Operations,High,Yes
+VUL-2024-0103,2024-12-22,SYS-022,Misconfiguration,Low,3.8,Open,,,Security Team,Low,No
+VUL-2024-0104,2025-04-12,SYS-008,SQL Injection,High,7.7,Closed,2025-05-08,26,Development Team,High,No
+VUL-2024-0105,2025-05-11,SYS-004,Outdated Software,High,8.0,In Progress,,,Infrastructure Team,High,Yes
+VUL-2024-0106,2024-02-23,SYS-024,Misconfiguration,Critical,9.0,Closed,2024-04-02,39,Security Team,High,Yes
+VUL-2024-0107,2025-10-17,SYS-012,Misconfiguration,Medium,5.4,Closed,2025-11-03,17,Security Team,Medium,No
+VUL-2024-0108,2025-08-11,SYS-008,Outdated Software,Medium,5.3,In Progress,,,Security Team,Medium,No
+VUL-2024-0109,2024-11-26,SYS-017,SQL Injection,Medium,6.1,Closed,2024-12-14,18,Infrastructure Team,Medium,No
+VUL-2024-0110,2024-02-11,SYS-022,Outdated Software,Low,1.8,Closed,2024-02-18,7,IT Operations,Low,No
+VUL-2024-0111,2025-05-30,SYS-010,Outdated Software,Medium,4.8,Closed,2025-06-18,19,IT Operations,Medium,No
+VUL-2024-0112,2025-05-31,SYS-001,Misconfiguration,High,8.3,Closed,2025-07-01,31,Security Team,Medium,No
+VUL-2024-0113,2024-12-19,SYS-001,Cross-Site Scripting,Medium,6.0,Closed,2025-01-02,14,Development Team,Medium,No
+VUL-2024-0114,2024-12-21,SYS-008,SQL Injection,Low,0.2,Closed,2024-12-28,7,Security Team,Low,No
+VUL-2024-0115,2024-06-09,SYS-022,Cross-Site Scripting,Medium,6.9,In Progress,,,Security Team,Medium,Yes
+VUL-2024-0116,2024-03-23,SYS-014,SQL Injection,Medium,6.4,Open,,,IT Operations,Medium,No
+VUL-2024-0117,2024-03-23,SYS-028,Weak Authentication,Medium,4.5,Closed,2024-04-12,20,Security Team,Medium,No
+VUL-2024-0118,2025-06-01,SYS-010,Misconfiguration,Medium,5.1,Closed,2025-06-15,14,Development Team,Medium,No
+VUL-2024-0119,2025-05-16,SYS-017,Buffer Overflow,High,7.8,Closed,2025-06-08,23,Security Team,High,No
+VUL-2024-0120,2025-02-05,SYS-026,Buffer Overflow,Medium,5.6,Closed,2025-02-25,20,Infrastructure Team,Medium,No
+VUL-2024-0121,2024-01-04,SYS-017,Outdated Software,Medium,4.5,Open,,,Security Team,Low,No
+VUL-2024-0122,2025-07-09,SYS-006,Misconfiguration,Critical,9.3,Closed,2025-08-05,27,IT Operations,High,No
+VUL-2024-0123,2024-03-31,SYS-019,Cross-Site Scripting,High,8.3,Open,,,Development Team,High,Yes
+VUL-2024-0124,2025-04-19,SYS-008,Cross-Site Scripting,Critical,9.8,Closed,2025-06-08,50,Security Team,High,No
+VUL-2024-0125,2025-02-21,SYS-030,Misconfiguration,Medium,4.7,Closed,2025-03-05,12,IT Operations,Medium,No
+VUL-2024-0126,2024-12-15,SYS-006,Misconfiguration,Low,0.6,In Progress,,,Infrastructure Team,Low,No
+VUL-2024-0127,2024-12-18,SYS-003,Cross-Site Scripting,Medium,5.4,Closed,2024-12-28,10,Security Team,Medium,No
+VUL-2024-0128,2025-08-14,SYS-008,Cross-Site Scripting,High,8.5,Closed,2025-09-06,23,Security Team,Medium,No
+VUL-2024-0129,2025-08-16,SYS-001,Outdated Software,Low,2.0,Closed,2025-08-28,12,Security Team,Low,Yes
+VUL-2024-0130,2025-02-27,SYS-021,Misconfiguration,Critical,9.3,In Progress,,,Security Team,High,Yes
+VUL-2024-0131,2024-11-13,SYS-011,Outdated Software,Medium,4.1,Closed,2024-11-30,17,IT Operations,Medium,No
+VUL-2024-0132,2025-06-09,SYS-025,Weak Authentication,High,8.3,Closed,2025-07-01,22,Security Team,High,No
+VUL-2024-0133,2025-03-12,SYS-023,Cross-Site Scripting,Medium,5.7,Closed,2025-04-03,22,Security Team,Medium,No
+VUL-2024-0134,2025-01-15,SYS-004,Misconfiguration,Medium,4.4,Closed,2025-02-06,22,Security Team,Medium,No
+VUL-2024-0135,2025-03-17,SYS-025,Misconfiguration,Critical,9.5,Closed,2025-04-22,36,Development Team,High,No
+VUL-2024-0136,2025-05-14,SYS-019,Buffer Overflow,Medium,6.5,Closed,2025-06-02,19,IT Operations,Low,No
+VUL-2024-0137,2025-06-19,SYS-007,SQL Injection,Medium,5.7,Closed,2025-07-06,17,Development Team,Low,No
+VUL-2024-0138,2025-06-08,SYS-001,Weak Authentication,High,7.2,Closed,2025-07-04,26,IT Operations,High,Yes
+VUL-2024-0139,2025-02-20,SYS-028,Buffer Overflow,Medium,6.1,Closed,2025-03-02,10,IT Operations,Low,No
+VUL-2024-0140,2024-12-31,SYS-005,Misconfiguration,Medium,5.0,In Progress,,,IT Operations,Medium,No
+VUL-2024-0141,2025-03-08,SYS-029,Outdated Software,Medium,6.2,In Progress,,,Security Team,Medium,No
+VUL-2024-0142,2025-06-09,SYS-009,Misconfiguration,Medium,6.0,In Progress,,,Development Team,Low,No
+VUL-2024-0143,2024-09-10,SYS-030,SQL Injection,High,7.7,In Progress,,,Security Team,Medium,Yes
+VUL-2024-0144,2025-03-09,SYS-004,Weak Authentication,High,8.4,Closed,2025-04-07,29,IT Operations,High,No
+VUL-2024-0145,2024-01-14,SYS-010,Misconfiguration,High,7.2,Closed,2024-02-06,23,IT Operations,Medium,No
+VUL-2024-0146,2025-10-29,SYS-015,Weak Authentication,Low,0.9,Closed,2025-11-04,6,IT Operations,Low,No
+VUL-2024-0147,2024-02-19,SYS-008,Buffer Overflow,Medium,6.1,Open,,,IT Operations,Low,No
+VUL-2024-0148,2024-01-27,SYS-012,Misconfiguration,High,7.4,Open,,,Security Team,High,No
+VUL-2024-0149,2024-11-15,SYS-030,Misconfiguration,Medium,5.5,In Progress,,,Security Team,Low,No
+VUL-2024-0150,2025-05-21,SYS-008,Cross-Site Scripting,High,7.0,Open,,,Security Team,Medium,No
+VUL-2024-0151,2025-07-17,SYS-009,Outdated Software,Low,2.6,In Progress,,,Security Team,Low,No
+VUL-2024-0152,2024-06-08,SYS-014,Outdated Software,Medium,6.8,Closed,2024-06-28,20,IT Operations,Medium,No
+VUL-2024-0153,2024-05-22,SYS-003,Outdated Software,Low,0.7,Closed,2024-06-04,13,Development Team,Low,No
+VUL-2024-0154,2024-11-04,SYS-020,Outdated Software,High,7.7,Closed,2024-11-20,16,Security Team,High,No
+VUL-2024-0155,2025-03-14,SYS-022,Misconfiguration,Medium,6.2,Open,,,IT Operations,Medium,No
+VUL-2024-0156,2025-02-17,SYS-022,SQL Injection,Medium,6.7,Closed,2025-02-27,10,IT Operations,Medium,No
+VUL-2024-0157,2024-03-11,SYS-026,Outdated Software,Critical,9.1,In Progress,,,Security Team,High,No
+VUL-2024-0158,2025-06-15,SYS-004,Outdated Software,Critical,9.5,Closed,2025-07-15,30,IT Operations,High,No
+VUL-2024-0159,2024-01-09,SYS-025,Buffer Overflow,Low,0.9,Closed,2024-01-21,12,Security Team,Low,Yes
+VUL-2024-0160,2025-10-30,SYS-026,Misconfiguration,Medium,4.1,Closed,2025-11-13,14,Security Team,Medium,No
+VUL-2024-0161,2025-10-12,SYS-030,Outdated Software,Medium,5.3,Closed,2025-10-25,13,IT Operations,Medium,No
+VUL-2024-0162,2025-04-12,SYS-003,Misconfiguration,Critical,9.4,Open,,,Development Team,High,No
+VUL-2024-0163,2025-10-15,SYS-022,Misconfiguration,Medium,5.2,Open,,,IT Operations,Medium,No
+VUL-2024-0164,2025-08-25,SYS-003,Weak Authentication,Medium,5.2,Closed,2025-09-06,12,Security Team,Medium,No
+VUL-2024-0165,2025-05-28,SYS-001,Buffer Overflow,Medium,4.1,Closed,2025-06-09,12,Security Team,Low,Yes
+VUL-2024-0166,2025-02-10,SYS-008,Buffer Overflow,Medium,5.7,Closed,2025-02-23,13,IT Operations,Medium,No
+VUL-2024-0167,2024-03-22,SYS-017,Outdated Software,Medium,4.9,Closed,2024-04-04,13,IT Operations,Medium,No
+VUL-2024-0168,2025-05-18,SYS-016,Outdated Software,Medium,6.7,Closed,2025-06-04,17,IT Operations,Medium,No
+VUL-2024-0169,2024-10-06,SYS-023,Misconfiguration,High,7.5,Closed,2024-10-25,19,Development Team,Medium,No
+VUL-2024-0170,2025-03-31,SYS-013,Misconfiguration,Medium,4.4,Closed,2025-04-13,13,Security Team,Medium,No
+VUL-2024-0171,2024-12-18,SYS-023,Cross-Site Scripting,High,7.1,Open,,,Development Team,High,No
+VUL-2024-0172,2025-05-18,SYS-007,Cross-Site Scripting,High,8.7,Closed,2025-06-03,16,Infrastructure Team,High,Yes
+VUL-2024-0173,2025-05-24,SYS-030,Misconfiguration,High,8.7,Closed,2025-06-09,16,Security Team,High,Yes
+VUL-2024-0174,2025-01-21,SYS-010,Outdated Software,Medium,5.0,Closed,2025-02-08,18,Development Team,Medium,No
+VUL-2024-0175,2024-11-07,SYS-011,Outdated Software,High,7.1,Open,,,Security Team,Medium,No
+VUL-2024-0176,2024-12-05,SYS-006,Cross-Site Scripting,Medium,5.1,Closed,2024-12-22,17,IT Operations,Medium,No
+VUL-2024-0177,2025-06-24,SYS-021,Misconfiguration,High,7.9,Closed,2025-07-18,24,Development Team,High,No
+VUL-2024-0178,2025-02-21,SYS-030,Misconfiguration,Medium,4.1,Open,,,Development Team,Medium,No
+VUL-2024-0179,2024-05-23,SYS-004,Cross-Site Scripting,Medium,5.5,Closed,2024-06-10,18,IT Operations,Low,No
+VUL-2024-0180,2025-04-01,SYS-001,Misconfiguration,Medium,5.2,Closed,2025-04-15,14,Security Team,Low,Yes
+VUL-2024-0181,2025-06-22,SYS-013,Cross-Site Scripting,Medium,4.3,Closed,2025-07-05,13,Security Team,Medium,No
+VUL-2024-0182,2024-11-26,SYS-012,Outdated Software,Medium,6.8,Closed,2024-12-15,19,Infrastructure Team,Medium,No
+VUL-2024-0183,2025-07-21,SYS-030,Weak Authentication,Critical,9.8,Closed,2025-09-08,49,Security Team,High,No
+VUL-2024-0184,2025-04-23,SYS-005,Misconfiguration,Critical,9.8,Open,,,Development Team,High,No
+VUL-2024-0185,2024-05-29,SYS-026,Misconfiguration,Low,1.9,In Progress,,,Development Team,Low,No
+VUL-2024-0186,2024-01-30,SYS-026,SQL Injection,Critical,10.0,Closed,2024-03-14,44,Development Team,High,No
+VUL-2024-0187,2025-10-10,SYS-005,Cross-Site Scripting,Critical,9.6,Closed,2025-11-22,43,Development Team,High,No
+VUL-2024-0188,2025-06-05,SYS-024,Weak Authentication,Medium,6.1,In Progress,,,Security Team,Medium,No
+VUL-2024-0189,2024-11-25,SYS-019,Misconfiguration,Medium,5.2,Closed,2024-12-12,17,Security Team,Low,No
+VUL-2024-0190,2024-11-13,SYS-013,Weak Authentication,High,8.1,Closed,2024-12-12,29,IT Operations,Medium,No
+VUL-2024-0191,2024-02-05,SYS-011,Weak Authentication,High,7.3,Closed,2024-03-06,30,Security Team,High,No
+VUL-2024-0192,2024-11-09,SYS-003,SQL Injection,High,7.4,Closed,2024-11-30,21,IT Operations,High,Yes
+VUL-2024-0193,2025-03-20,SYS-019,Outdated Software,High,8.6,Closed,2025-04-13,24,Security Team,High,No
+VUL-2024-0194,2025-09-08,SYS-019,Cross-Site Scripting,Medium,6.0,Closed,2025-09-23,15,Security Team,Medium,Yes
+VUL-2024-0195,2025-01-14,SYS-009,SQL Injection,Medium,5.0,In Progress,,,IT Operations,Medium,No
+VUL-2024-0196,2024-10-31,SYS-012,Weak Authentication,Medium,5.1,Closed,2024-11-19,19,IT Operations,Low,No
+VUL-2024-0197,2025-03-10,SYS-009,Weak Authentication,Medium,4.6,Closed,2025-03-26,16,Security Team,Medium,No
+VUL-2024-0198,2025-04-19,SYS-024,Outdated Software,High,7.7,Closed,2025-05-09,20,Infrastructure Team,High,No
+VUL-2024-0199,2024-03-25,SYS-018,Buffer Overflow,Critical,9.5,Closed,2024-05-12,48,Development Team,High,No
+VUL-2024-0200,2024-01-28,SYS-024,Outdated Software,Low,2.7,Closed,2024-02-09,12,Security Team,Low,No
+VUL-2024-0201,2025-05-26,SYS-011,Outdated Software,Medium,6.9,Closed,2025-06-18,23,IT Operations,Low,No
+VUL-2024-0202,2024-12-02,SYS-024,Outdated Software,High,8.3,Closed,2024-12-24,22,Security Team,High,Yes
+VUL-2024-0203,2025-04-19,SYS-030,Weak Authentication,Critical,9.6,In Progress,,,Security Team,High,Yes
+VUL-2024-0204,2024-04-24,SYS-017,Misconfiguration,Low,2.7,Closed,2024-05-02,8,Security Team,Low,No
+VUL-2024-0205,2025-03-17,SYS-004,SQL Injection,High,7.9,Closed,2025-04-11,25,Infrastructure Team,High,No
+VUL-2024-0206,2024-03-10,SYS-010,Cross-Site Scripting,Critical,9.5,Closed,2024-04-26,47,IT Operations,High,No
+VUL-2024-0207,2024-11-10,SYS-001,Buffer Overflow,High,7.2,Closed,2024-12-08,28,IT Operations,High,No
+VUL-2024-0208,2024-05-06,SYS-018,Outdated Software,High,8.1,Closed,2024-05-28,22,IT Operations,High,No
+VUL-2024-0209,2025-01-01,SYS-023,Cross-Site Scripting,Low,1.8,Closed,2025-01-12,11,Development Team,Low,No
+VUL-2024-0210,2025-06-26,SYS-024,Misconfiguration,Medium,4.3,Closed,2025-07-08,12,Security Team,Medium,No
+VUL-2024-0211,2025-08-17,SYS-030,Outdated Software,High,8.1,Closed,2025-08-30,13,Security Team,Medium,No
+VUL-2024-0212,2025-06-23,SYS-024,Weak Authentication,Medium,5.7,Closed,2025-07-03,10,Security Team,Medium,No
+VUL-2024-0213,2025-05-17,SYS-012,Misconfiguration,Medium,4.4,Closed,2025-05-31,14,IT Operations,Medium,No
+VUL-2024-0214,2025-10-06,SYS-018,Misconfiguration,Critical,9.3,Closed,2025-11-16,41,IT Operations,High,Yes
+VUL-2024-0215,2024-11-01,SYS-015,Cross-Site Scripting,Low,3.2,Closed,2024-11-17,16,IT Operations,Low,No
+VUL-2024-0216,2024-12-27,SYS-014,Cross-Site Scripting,High,7.2,Open,,,Security Team,High,No
+VUL-2024-0217,2024-03-15,SYS-018,Buffer Overflow,Medium,6.2,Closed,2024-03-29,14,IT Operations,Medium,No
+VUL-2024-0218,2025-10-18,SYS-025,SQL Injection,Critical,9.8,Closed,2025-11-25,38,Infrastructure Team,High,Yes
+VUL-2024-0219,2025-07-25,SYS-008,SQL Injection,Medium,5.3,Open,,,IT Operations,Low,No
+VUL-2024-0220,2024-05-26,SYS-023,Weak Authentication,High,7.7,Closed,2024-06-09,14,Security Team,High,Yes
+VUL-2024-0221,2024-01-12,SYS-017,Misconfiguration,Low,2.1,In Progress,,,Security Team,Low,No
+VUL-2024-0222,2025-08-29,SYS-022,SQL Injection,Critical,9.1,Open,,,Infrastructure Team,High,No
+VUL-2024-0223,2024-02-28,SYS-004,Cross-Site Scripting,Critical,9.7,Closed,2024-03-29,30,Development Team,High,No
+VUL-2024-0224,2024-03-21,SYS-008,Outdated Software,High,7.7,Closed,2024-04-06,16,Development Team,High,No
+VUL-2024-0225,2024-08-30,SYS-026,Misconfiguration,High,8.8,Closed,2024-09-18,19,Development Team,Medium,Yes
+VUL-2024-0226,2025-10-21,SYS-022,Outdated Software,Medium,6.5,Closed,2025-11-02,12,Infrastructure Team,Low,No
+VUL-2024-0227,2024-11-10,SYS-010,Misconfiguration,High,7.2,Open,,,Security Team,High,No
+VUL-2024-0228,2024-01-30,SYS-026,Outdated Software,Medium,5.3,Closed,2024-02-11,12,IT Operations,Medium,No
+VUL-2024-0229,2024-03-30,SYS-026,SQL Injection,Low,2.6,Closed,2024-04-06,7,IT Operations,Low,No
+VUL-2024-0230,2024-01-21,SYS-009,Weak Authentication,Critical,9.8,Open,,,Security Team,High,No
+VUL-2024-0231,2024-02-08,SYS-017,Outdated Software,Low,0.1,In Progress,,,IT Operations,Low,No
+VUL-2024-0232,2024-05-03,SYS-023,SQL Injection,Medium,4.3,Open,,,Security Team,Low,No
+VUL-2024-0233,2025-04-22,SYS-004,Misconfiguration,Medium,5.6,In Progress,,,Security Team,Medium,No
+VUL-2024-0234,2025-09-20,SYS-022,Cross-Site Scripting,Medium,4.3,Closed,2025-10-10,20,Security Team,Medium,No
+VUL-2024-0235,2024-12-26,SYS-004,Outdated Software,High,8.2,Closed,2025-01-21,26,IT Operations,High,No
+VUL-2024-0236,2025-05-28,SYS-026,Outdated Software,High,7.4,In Progress,,,IT Operations,Medium,No
+VUL-2024-0237,2024-05-13,SYS-003,Misconfiguration,High,8.2,Closed,2024-06-06,24,Infrastructure Team,Medium,No
+VUL-2024-0238,2024-02-28,SYS-025,Outdated Software,Critical,9.4,Closed,2024-03-30,31,IT Operations,High,No
+VUL-2024-0239,2024-02-19,SYS-002,Outdated Software,High,7.4,In Progress,,,IT Operations,High,No
+VUL-2024-0240,2024-12-23,SYS-012,Weak Authentication,Low,2.1,Closed,2024-12-28,5,Security Team,Low,Yes
+VUL-2024-0241,2025-10-26,SYS-005,Outdated Software,Low,1.6,Closed,2025-11-06,11,IT Operations,Low,No
+VUL-2024-0242,2024-10-14,SYS-023,Cross-Site Scripting,Medium,4.2,Open,,,IT Operations,Medium,No
+VUL-2024-0243,2025-05-24,SYS-006,SQL Injection,High,8.3,Closed,2025-06-19,26,Infrastructure Team,High,No
+VUL-2024-0244,2025-05-06,SYS-011,Buffer Overflow,High,8.5,Closed,2025-05-27,21,Development Team,High,No
+VUL-2024-0245,2024-07-03,SYS-008,Misconfiguration,Low,2.5,Closed,2024-07-14,11,Security Team,Low,No
+VUL-2024-0246,2025-03-12,SYS-005,Buffer Overflow,Medium,4.3,Open,,,Security Team,Medium,Yes
+VUL-2024-0247,2025-08-08,SYS-001,Outdated Software,High,7.7,Closed,2025-08-30,22,Infrastructure Team,High,No
+VUL-2024-0248,2025-05-21,SYS-013,Outdated Software,Critical,9.2,In Progress,,,Development Team,High,No
+VUL-2024-0249,2024-02-22,SYS-027,Cross-Site Scripting,High,7.4,Open,,,Development Team,Medium,No
+VUL-2024-0250,2024-10-03,SYS-018,SQL Injection,Low,1.5,Closed,2024-10-19,16,Security Team,Low,No
+VUL-2024-0251,2025-01-19,SYS-030,Buffer Overflow,Critical,9.8,Open,,,Security Team,High,No
+VUL-2024-0252,2024-01-18,SYS-010,Weak Authentication,Medium,6.5,Closed,2024-01-31,13,IT Operations,Low,No
+VUL-2024-0253,2024-02-17,SYS-030,Outdated Software,High,7.9,Open,,,Development Team,High,No
+VUL-2024-0254,2025-09-17,SYS-012,Outdated Software,Medium,5.3,Closed,2025-10-01,14,IT Operations,Medium,No
+VUL-2024-0255,2025-03-02,SYS-013,Cross-Site Scripting,Low,1.0,In Progress,,,Development Team,Low,No
+VUL-2024-0256,2024-11-09,SYS-008,Cross-Site Scripting,High,7.3,Closed,2024-11-28,19,Security Team,High,No
+VUL-2024-0257,2025-02-25,SYS-007,Outdated Software,High,7.9,Closed,2025-03-17,20,Development Team,High,No
+VUL-2024-0258,2025-03-07,SYS-025,Outdated Software,Low,0.7,In Progress,,,IT Operations,Low,No
+VUL-2024-0259,2024-06-06,SYS-001,Outdated Software,High,8.6,Closed,2024-06-21,15,Security Team,Medium,Yes
+VUL-2024-0260,2024-01-25,SYS-030,Cross-Site Scripting,Medium,4.6,Closed,2024-02-13,19,IT Operations,Medium,No
+VUL-2024-0261,2024-06-27,SYS-003,SQL Injection,Critical,9.2,Closed,2024-08-26,60,Security Team,High,No
+VUL-2024-0262,2025-07-11,SYS-004,Misconfiguration,Medium,4.1,Closed,2025-07-21,10,Development Team,Medium,No
+VUL-2024-0263,2024-12-12,SYS-007,Cross-Site Scripting,Critical,9.3,Open,,,IT Operations,High,No
+VUL-2024-0264,2025-04-16,SYS-012,Misconfiguration,High,7.9,Closed,2025-04-29,13,Security Team,High,No
+VUL-2024-0265,2025-02-21,SYS-030,Misconfiguration,Low,3.1,In Progress,,,IT Operations,Low,No
+VUL-2024-0266,2024-11-19,SYS-016,Outdated Software,High,7.5,Closed,2024-12-16,27,Security Team,Medium,No
+VUL-2024-0267,2024-01-16,SYS-017,Buffer Overflow,Medium,5.7,Open,,,Security Team,Medium,No
+VUL-2024-0268,2025-06-24,SYS-002,Cross-Site Scripting,Low,2.3,Closed,2025-07-04,10,Development Team,Low,No
+VUL-2024-0269,2024-03-19,SYS-009,Buffer Overflow,High,8.3,In Progress,,,Infrastructure Team,High,No
+VUL-2024-0270,2024-03-26,SYS-026,Misconfiguration,Critical,9.5,Closed,2024-05-16,51,Security Team,High,Yes
+VUL-2024-0271,2024-04-17,SYS-015,Outdated Software,High,8.7,In Progress,,,Development Team,Medium,No
+VUL-2024-0272,2024-11-01,SYS-004,Buffer Overflow,Medium,6.7,In Progress,,,Infrastructure Team,Medium,No
+VUL-2024-0273,2024-12-04,SYS-010,Outdated Software,Medium,4.4,In Progress,,,Development Team,Low,No
+VUL-2024-0274,2024-03-31,SYS-018,Weak Authentication,High,8.5,Open,,,Security Team,Medium,Yes
+VUL-2024-0275,2024-03-01,SYS-029,Misconfiguration,High,7.7,Closed,2024-03-20,19,Security Team,Medium,No
+VUL-2024-0276,2025-04-04,SYS-029,Cross-Site Scripting,Medium,5.0,Closed,2025-04-16,12,Infrastructure Team,Medium,No
+VUL-2024-0277,2024-02-23,SYS-022,Buffer Overflow,Low,3.5,Closed,2024-03-06,12,Security Team,Low,No
+VUL-2024-0278,2024-11-26,SYS-003,SQL Injection,High,7.1,Open,,,Development Team,High,No
+VUL-2024-0279,2025-02-04,SYS-025,Misconfiguration,High,8.2,Closed,2025-02-24,20,Security Team,Medium,Yes
+VUL-2024-0280,2024-11-04,SYS-003,Cross-Site Scripting,Medium,6.6,Open,,,Security Team,Low,No
+VUL-2024-0281,2025-05-14,SYS-029,Cross-Site Scripting,Low,2.4,Closed,2025-05-24,10,Security Team,Low,No
+VUL-2024-0282,2024-03-23,SYS-018,Buffer Overflow,Medium,5.6,Closed,2024-04-11,19,Security Team,Medium,No
+VUL-2024-0283,2025-07-05,SYS-002,SQL Injection,Medium,5.2,In Progress,,,Security Team,Medium,No
+VUL-2024-0284,2024-10-03,SYS-015,SQL Injection,Critical,9.3,Closed,2024-10-31,28,Development Team,High,Yes
+VUL-2024-0285,2025-04-13,SYS-006,Outdated Software,High,7.7,Closed,2025-05-10,27,IT Operations,High,No
+VUL-2024-0286,2025-03-05,SYS-023,Weak Authentication,Medium,4.3,Closed,2025-03-18,13,IT Operations,Low,No
+VUL-2024-0287,2025-03-27,SYS-012,Misconfiguration,Medium,5.2,In Progress,,,IT Operations,Medium,No
+VUL-2024-0288,2024-12-28,SYS-023,Misconfiguration,Low,2.3,Open,,,Security Team,Low,No
+VUL-2024-0289,2024-03-06,SYS-030,Cross-Site Scripting,High,7.2,Closed,2024-03-25,19,IT Operations,High,No
+VUL-2024-0290,2024-03-20,SYS-008,Buffer Overflow,Medium,6.7,Closed,2024-04-05,16,IT Operations,Medium,No
+VUL-2024-0291,2025-02-28,SYS-001,Weak Authentication,High,8.2,Closed,2025-03-26,26,Security Team,High,No
+VUL-2024-0292,2025-10-04,SYS-028,Misconfiguration,Medium,6.3,In Progress,,,Development Team,Medium,No
+VUL-2024-0293,2025-03-16,SYS-001,Outdated Software,High,7.8,Closed,2025-04-09,24,Development Team,High,Yes
+VUL-2024-0294,2025-05-30,SYS-008,Outdated Software,Medium,4.1,Closed,2025-06-21,22,Development Team,Low,No
+VUL-2024-0295,2025-10-08,SYS-004,Buffer Overflow,Low,1.8,Closed,2025-10-18,10,IT Operations,Low,No
+VUL-2024-0296,2024-03-07,SYS-027,Outdated Software,High,8.4,Open,,,Security Team,Medium,No
+VUL-2024-0297,2025-06-17,SYS-026,SQL Injection,Medium,4.5,Open,,,Security Team,Medium,No
+VUL-2024-0298,2024-03-12,SYS-025,Misconfiguration,Medium,5.2,Open,,,Security Team,Medium,No
+VUL-2024-0299,2025-08-19,SYS-018,Outdated Software,Low,0.7,Open,,,Security Team,Low,No
+VUL-2024-0300,2024-03-19,SYS-024,Cross-Site Scripting,High,8.6,In Progress,,,IT Operations,High,No
+VUL-2024-0301,2025-10-22,SYS-001,Cross-Site Scripting,Low,2.6,Open,,,Security Team,Low,No
+VUL-2024-0302,2024-10-31,SYS-023,Outdated Software,Medium,5.2,In Progress,,,Security Team,Medium,No
+VUL-2024-0303,2025-06-13,SYS-019,SQL Injection,Critical,9.5,In Progress,,,IT Operations,High,No
+VUL-2024-0304,2024-08-22,SYS-003,SQL Injection,Medium,5.0,Closed,2024-09-09,18,Development Team,Medium,No
+VUL-2024-0305,2025-09-10,SYS-006,Misconfiguration,Medium,6.2,In Progress,,,IT Operations,Medium,No
+VUL-2024-0306,2025-04-10,SYS-008,Outdated Software,Critical,9.4,Closed,2025-05-17,37,Development Team,High,No
+VUL-2024-0307,2024-03-24,SYS-023,Weak Authentication,Medium,5.6,In Progress,,,IT Operations,Low,No
+VUL-2024-0308,2025-08-06,SYS-009,Misconfiguration,Medium,4.4,Open,,,Infrastructure Team,Low,No
+VUL-2024-0309,2024-04-08,SYS-023,Outdated Software,Medium,5.2,Closed,2024-04-23,15,IT Operations,Medium,No
+VUL-2024-0310,2024-01-21,SYS-019,Weak Authentication,High,7.1,Closed,2024-02-15,25,Development Team,High,Yes
+VUL-2024-0311,2024-01-28,SYS-004,Cross-Site Scripting,Low,1.4,In Progress,,,Security Team,Low,No
+VUL-2024-0312,2024-03-03,SYS-016,Weak Authentication,High,8.9,Closed,2024-03-25,22,Security Team,High,No
+VUL-2024-0313,2024-03-25,SYS-005,Buffer Overflow,High,8.5,Closed,2024-04-22,28,IT Operations,High,No
+VUL-2024-0314,2024-12-02,SYS-017,Buffer Overflow,Low,1.5,Open,,,Security Team,Low,Yes
+VUL-2024-0315,2025-05-08,SYS-022,Outdated Software,Low,1.3,Closed,2025-05-18,10,IT Operations,Low,No
+VUL-2024-0316,2025-06-10,SYS-029,Misconfiguration,High,8.4,Closed,2025-07-04,24,IT Operations,High,No
+VUL-2024-0317,2025-02-25,SYS-006,Outdated Software,Medium,4.1,Open,,,Security Team,Medium,No
+VUL-2024-0318,2024-02-23,SYS-021,SQL Injection,Medium,5.1,Closed,2024-03-15,21,IT Operations,Medium,No
+VUL-2024-0319,2025-04-21,SYS-025,SQL Injection,Medium,6.0,Closed,2025-05-10,19,Security Team,Medium,No
+VUL-2024-0320,2024-03-22,SYS-020,Outdated Software,High,7.8,In Progress,,,IT Operations,Medium,No
+VUL-2024-0321,2025-09-17,SYS-023,Cross-Site Scripting,Medium,4.8,Closed,2025-10-05,18,IT Operations,Low,No
+VUL-2024-0322,2025-10-12,SYS-022,Outdated Software,Low,0.7,Closed,2025-10-17,5,Security Team,Low,No
+VUL-2024-0323,2024-11-01,SYS-001,SQL Injection,Medium,6.6,Open,,,Infrastructure Team,Low,Yes
+VUL-2024-0324,2025-05-29,SYS-008,Cross-Site Scripting,Medium,5.3,Closed,2025-06-13,15,Security Team,Low,No
+VUL-2024-0325,2025-07-12,SYS-024,Outdated Software,High,7.8,Closed,2025-08-07,26,Development Team,High,No
+VUL-2024-0326,2025-04-06,SYS-009,Outdated Software,Medium,6.8,Open,,,Security Team,Medium,No
+VUL-2024-0327,2024-12-15,SYS-008,Outdated Software,High,8.3,Open,,,Security Team,High,Yes
+VUL-2024-0328,2025-10-06,SYS-003,Misconfiguration,Medium,5.4,Closed,2025-10-15,9,Security Team,Medium,No
+VUL-2024-0329,2024-01-22,SYS-026,Buffer Overflow,Medium,6.8,Closed,2024-02-08,17,IT Operations,Low,No
+VUL-2024-0330,2024-01-21,SYS-009,Buffer Overflow,High,8.6,In Progress,,,IT Operations,High,No
+VUL-2024-0331,2025-01-24,SYS-008,Outdated Software,Medium,5.9,Closed,2025-02-04,11,Development Team,Medium,No
+VUL-2024-0332,2024-01-21,SYS-029,Misconfiguration,Medium,6.5,Open,,,Development Team,Medium,No
+VUL-2024-0333,2024-08-17,SYS-007,Weak Authentication,Critical,9.4,Closed,2024-09-25,39,IT Operations,High,No
+VUL-2024-0334,2025-01-28,SYS-016,Outdated Software,Medium,4.3,Open,,,Security Team,Medium,No
+VUL-2024-0335,2024-01-03,SYS-024,Weak Authentication,Medium,5.8,Closed,2024-01-13,10,IT Operations,Medium,No
+VUL-2024-0336,2025-06-27,SYS-007,Misconfiguration,Medium,5.0,Closed,2025-07-16,19,Development Team,Medium,No
+VUL-2024-0337,2024-02-22,SYS-007,Outdated Software,Critical,9.4,In Progress,,,IT Operations,High,No
+VUL-2024-0338,2024-02-29,SYS-005,Cross-Site Scripting,Low,3.2,Closed,2024-03-13,13,IT Operations,Low,No
+VUL-2024-0339,2025-10-13,SYS-007,Cross-Site Scripting,Medium,6.1,Closed,2025-10-23,10,Security Team,Medium,No
+VUL-2024-0340,2024-02-29,SYS-014,Weak Authentication,High,8.1,Open,,,IT Operations,High,No
+VUL-2024-0341,2025-07-16,SYS-028,Buffer Overflow,Medium,6.7,Open,,,Development Team,Medium,No
+VUL-2024-0342,2025-03-29,SYS-009,Outdated Software,High,7.8,Closed,2025-04-26,28,Infrastructure Team,Medium,No
+VUL-2024-0343,2024-02-14,SYS-019,Buffer Overflow,Medium,5.5,Open,,,Security Team,Medium,No
+VUL-2024-0344,2024-11-22,SYS-004,Buffer Overflow,Medium,5.9,Closed,2024-12-13,21,IT Operations,Medium,No
+VUL-2024-0345,2024-11-16,SYS-019,Weak Authentication,Critical,9.7,In Progress,,,Development Team,High,No
+VUL-2024-0346,2024-01-04,SYS-001,Cross-Site Scripting,Medium,4.2,Closed,2024-01-16,12,Development Team,Medium,No
+VUL-2024-0347,2024-06-27,SYS-002,Outdated Software,High,7.4,Closed,2024-07-21,24,IT Operations,High,No
+VUL-2024-0348,2025-03-08,SYS-023,Misconfiguration,High,7.7,Open,,,Infrastructure Team,High,No
+VUL-2024-0349,2025-10-11,SYS-030,SQL Injection,Low,0.1,Closed,2025-10-24,13,Development Team,Low,No
+VUL-2024-0350,2025-01-08,SYS-027,Buffer Overflow,High,8.3,Open,,,Development Team,Medium,Yes
+VUL-2024-0351,2024-03-22,SYS-003,Cross-Site Scripting,High,8.4,Closed,2024-04-06,15,IT Operations,High,Yes
+VUL-2024-0352,2025-03-09,SYS-001,Misconfiguration,High,8.3,Closed,2025-03-30,21,Infrastructure Team,High,No
+VUL-2024-0353,2025-04-27,SYS-022,Misconfiguration,Medium,6.3,Closed,2025-05-12,15,Development Team,Medium,No
+VUL-2024-0354,2024-03-03,SYS-024,Cross-Site Scripting,Medium,5.2,Closed,2024-03-20,17,Security Team,Low,No
+VUL-2024-0355,2024-11-10,SYS-007,Buffer Overflow,Medium,5.8,Open,,,Security Team,Medium,No
+VUL-2024-0356,2025-04-30,SYS-019,SQL Injection,Critical,9.7,Closed,2025-06-10,41,Development Team,High,Yes
+VUL-2024-0357,2024-06-24,SYS-009,Misconfiguration,Medium,6.4,Closed,2024-07-11,17,IT Operations,Medium,No
+VUL-2024-0358,2025-04-11,SYS-017,SQL Injection,Critical,9.2,Open,,,IT Operations,High,Yes
+VUL-2024-0359,2025-04-07,SYS-026,Outdated Software,High,8.6,Closed,2025-04-27,20,Development Team,Medium,No
+VUL-2024-0360,2025-04-03,SYS-023,Cross-Site Scripting,Medium,4.1,Closed,2025-04-18,15,Security Team,Medium,No
+VUL-2024-0361,2024-02-27,SYS-007,Outdated Software,Critical,9.4,Closed,2024-03-31,33,IT Operations,High,Yes
+VUL-2024-0362,2025-05-18,SYS-001,Buffer Overflow,Critical,9.6,Open,,,Development Team,High,Yes
+VUL-2024-0363,2025-10-04,SYS-009,Weak Authentication,High,7.6,Closed,2025-10-17,13,Infrastructure Team,High,No
+VUL-2024-0364,2024-01-06,SYS-017,Cross-Site Scripting,Medium,6.2,Closed,2024-01-17,11,IT Operations,Medium,No
+VUL-2024-0365,2025-10-28,SYS-023,Outdated Software,Medium,6.8,Closed,2025-11-18,21,IT Operations,Medium,Yes
+VUL-2024-0366,2025-03-18,SYS-018,SQL Injection,Low,1.3,Closed,2025-03-27,9,Infrastructure Team,Low,No
+VUL-2024-0367,2024-03-06,SYS-007,Cross-Site Scripting,Medium,4.6,Open,,,Development Team,Low,No
+VUL-2024-0368,2025-01-18,SYS-003,Weak Authentication,Low,0.4,Closed,2025-01-24,6,IT Operations,Low,No
+VUL-2024-0369,2024-11-22,SYS-021,SQL Injection,Critical,9.3,In Progress,,,IT Operations,High,No
+VUL-2024-0370,2025-04-23,SYS-019,Misconfiguration,Low,2.3,Open,,,Security Team,Low,No
+VUL-2024-0371,2024-04-24,SYS-021,Outdated Software,Medium,6.4,In Progress,,,Development Team,Medium,No
+VUL-2024-0372,2024-10-18,SYS-003,Weak Authentication,High,8.2,Open,,,Development Team,High,No
+VUL-2024-0373,2025-04-24,SYS-003,SQL Injection,High,8.6,In Progress,,,Development Team,High,Yes
+VUL-2024-0374,2024-06-29,SYS-030,Misconfiguration,Low,2.6,Closed,2024-07-06,7,Security Team,Low,No
+VUL-2024-0375,2025-05-10,SYS-004,Misconfiguration,High,8.0,Closed,2025-05-28,18,Security Team,High,No
+VUL-2024-0376,2025-10-22,SYS-005,Misconfiguration,High,7.3,Closed,2025-11-13,22,Infrastructure Team,High,No
+VUL-2024-0377,2025-05-16,SYS-029,SQL Injection,Critical,9.2,Closed,2025-07-03,48,Security Team,High,Yes
+VUL-2024-0378,2025-05-17,SYS-027,Outdated Software,Medium,5.1,Open,,,Infrastructure Team,Medium,No
+VUL-2024-0379,2025-02-27,SYS-008,Buffer Overflow,Medium,4.8,Closed,2025-03-22,23,Security Team,Medium,No
+VUL-2024-0380,2025-09-03,SYS-017,Outdated Software,High,8.8,Closed,2025-09-26,23,Security Team,Medium,No
+VUL-2024-0381,2025-01-20,SYS-001,Cross-Site Scripting,Critical,9.4,Closed,2025-02-26,37,IT Operations,High,Yes
+VUL-2024-0382,2024-03-12,SYS-019,Cross-Site Scripting,Medium,5.9,Open,,,IT Operations,Medium,No
+VUL-2024-0383,2024-03-27,SYS-012,Cross-Site Scripting,High,7.1,Closed,2024-04-16,20,IT Operations,Medium,Yes
+VUL-2024-0384,2024-03-30,SYS-006,Outdated Software,High,8.1,In Progress,,,Infrastructure Team,High,No
+VUL-2024-0385,2025-01-16,SYS-005,Outdated Software,High,8.1,Closed,2025-02-05,20,IT Operations,High,No
+VUL-2024-0386,2025-10-20,SYS-019,Cross-Site Scripting,Medium,5.1,Closed,2025-11-06,17,Security Team,Low,No
+VUL-2024-0387,2024-12-05,SYS-019,Cross-Site Scripting,High,7.9,Open,,,Security Team,High,No
+VUL-2024-0388,2025-02-01,SYS-027,Buffer Overflow,High,8.3,Closed,2025-03-01,28,Security Team,High,No
+VUL-2024-0389,2024-05-26,SYS-015,Buffer Overflow,Medium,5.1,Open,,,IT Operations,Medium,No
+VUL-2024-0390,2025-09-03,SYS-009,Misconfiguration,High,7.8,Closed,2025-09-18,15,Development Team,High,No
+VUL-2024-0391,2025-02-13,SYS-021,Weak Authentication,Critical,9.8,Closed,2025-03-16,31,Security Team,High,No
+VUL-2024-0392,2024-06-28,SYS-017,Misconfiguration,High,7.7,In Progress,,,Development Team,High,No
+VUL-2024-0393,2025-01-12,SYS-018,Misconfiguration,High,7.5,Closed,2025-02-09,28,Development Team,High,Yes
+VUL-2024-0394,2025-08-04,SYS-023,Outdated Software,Critical,9.8,Closed,2025-09-13,40,Security Team,High,No
+VUL-2024-0395,2024-11-18,SYS-019,Weak Authentication,Medium,6.0,Closed,2024-11-27,9,IT Operations,Low,No
+VUL-2024-0396,2025-01-20,SYS-014,SQL Injection,Medium,4.8,Closed,2025-02-08,19,Security Team,Medium,No
+VUL-2024-0397,2025-04-17,SYS-009,Misconfiguration,Medium,4.2,Closed,2025-04-30,13,IT Operations,Medium,No
+VUL-2024-0398,2025-06-10,SYS-006,Misconfiguration,High,8.0,Closed,2025-07-08,28,IT Operations,High,No
+VUL-2024-0399,2025-10-03,SYS-030,Buffer Overflow,Medium,5.2,Closed,2025-10-20,17,IT Operations,Medium,No
+VUL-2024-0400,2024-01-03,SYS-018,Buffer Overflow,High,8.6,Closed,2024-01-28,25,Development Team,High,No
+VUL-2024-0401,2025-01-13,SYS-019,Outdated Software,Medium,4.5,Closed,2025-01-25,12,Security Team,Medium,No
+VUL-2024-0402,2025-06-09,SYS-026,Misconfiguration,Medium,4.7,In Progress,,,Development Team,Low,No
+VUL-2024-0403,2025-01-15,SYS-027,SQL Injection,Critical,9.5,Closed,2025-03-12,56,IT Operations,High,No
+VUL-2024-0404,2025-05-08,SYS-024,Outdated Software,Low,3.7,Closed,2025-05-14,6,Development Team,Low,No
+VUL-2024-0405,2024-09-13,SYS-022,Outdated Software,Medium,4.2,Closed,2024-10-02,19,Security Team,Low,No
+VUL-2024-0406,2025-10-22,SYS-028,Cross-Site Scripting,High,7.9,Closed,2025-11-07,16,Security Team,High,Yes
+VUL-2024-0407,2025-07-27,SYS-019,Cross-Site Scripting,High,8.5,In Progress,,,IT Operations,Medium,No
+VUL-2024-0408,2024-01-16,SYS-011,Outdated Software,Low,2.0,In Progress,,,Security Team,Low,No
+VUL-2024-0409,2025-02-13,SYS-007,Misconfiguration,High,7.2,Closed,2025-03-10,25,IT Operations,High,No
+VUL-2024-0410,2025-05-06,SYS-014,Cross-Site Scripting,High,8.3,Closed,2025-05-29,23,Security Team,High,No
+VUL-2024-0411,2024-02-12,SYS-019,Outdated Software,Critical,9.2,Closed,2024-04-10,58,IT Operations,High,No
+VUL-2024-0412,2024-11-16,SYS-013,Outdated Software,Medium,6.0,Closed,2024-11-30,14,IT Operations,Medium,No
+VUL-2024-0413,2025-10-22,SYS-008,SQL Injection,Medium,6.1,Closed,2025-11-02,11,Development Team,Medium,No
+VUL-2024-0414,2025-05-16,SYS-024,Cross-Site Scripting,Critical,9.4,In Progress,,,Development Team,High,No
+VUL-2024-0415,2025-03-19,SYS-001,SQL Injection,High,8.3,Closed,2025-04-05,17,Security Team,Medium,Yes
+VUL-2024-0416,2025-05-09,SYS-010,Misconfiguration,Critical,9.6,Closed,2025-06-30,52,Security Team,High,Yes
+VUL-2024-0417,2025-08-31,SYS-019,Misconfiguration,Medium,5.7,Closed,2025-09-13,13,Infrastructure Team,Medium,No
+VUL-2024-0418,2025-02-25,SYS-023,SQL Injection,Low,1.5,Closed,2025-03-04,7,Infrastructure Team,Low,No
+VUL-2024-0419,2025-04-30,SYS-010,Weak Authentication,High,8.2,Open,,,Security Team,High,No
+VUL-2024-0420,2025-04-23,SYS-008,Weak Authentication,High,7.8,In Progress,,,Development Team,High,No
+VUL-2024-0421,2024-03-28,SYS-001,Buffer Overflow,Critical,9.2,Open,,,Security Team,High,No
+VUL-2024-0422,2024-02-29,SYS-015,SQL Injection,High,7.1,Closed,2024-03-26,26,Infrastructure Team,High,No
+VUL-2024-0423,2024-02-29,SYS-012,Cross-Site Scripting,Medium,4.7,Closed,2024-03-14,14,Security Team,Medium,No
+VUL-2024-0424,2024-01-12,SYS-026,Outdated Software,High,8.6,In Progress,,,IT Operations,High,No
+VUL-2024-0425,2025-02-19,SYS-019,Weak Authentication,Low,2.9,Closed,2025-02-26,7,IT Operations,Low,No
+VUL-2024-0426,2025-09-16,SYS-018,SQL Injection,Medium,5.3,Closed,2025-09-30,14,Security Team,Medium,No
+VUL-2024-0427,2025-06-05,SYS-010,Misconfiguration,High,8.0,In Progress,,,Security Team,Medium,No
+VUL-2024-0428,2025-03-26,SYS-001,Outdated Software,High,7.4,Closed,2025-04-18,23,Security Team,Medium,No
+VUL-2024-0429,2024-12-09,SYS-003,Weak Authentication,High,7.5,Closed,2025-01-03,25,Development Team,Medium,No
+VUL-2024-0430,2025-07-06,SYS-004,SQL Injection,Low,2.5,Closed,2025-07-14,8,Development Team,Low,No
+VUL-2024-0431,2024-11-05,SYS-001,Misconfiguration,Critical,9.0,Closed,2024-12-04,29,Security Team,High,No
+VUL-2024-0432,2024-01-03,SYS-004,Misconfiguration,Medium,4.6,Closed,2024-01-20,17,Development Team,Low,No
+VUL-2024-0433,2025-06-11,SYS-003,Buffer Overflow,Critical,10.0,Closed,2025-07-16,35,Security Team,High,No
+VUL-2024-0434,2024-03-29,SYS-025,Outdated Software,High,8.6,Open,,,Security Team,Medium,Yes
+VUL-2024-0435,2025-10-07,SYS-014,Buffer Overflow,Critical,9.1,In Progress,,,Security Team,High,No
+VUL-2024-0436,2025-10-06,SYS-020,SQL Injection,Medium,6.2,Closed,2025-10-24,18,Security Team,Medium,No
+VUL-2024-0437,2025-08-28,SYS-022,SQL Injection,Critical,9.2,Closed,2025-10-06,39,Security Team,High,Yes
+VUL-2024-0438,2024-02-26,SYS-008,SQL Injection,Critical,9.6,Closed,2024-04-22,56,IT Operations,High,No
+VUL-2024-0439,2024-02-06,SYS-016,Weak Authentication,High,8.2,Closed,2024-02-27,21,IT Operations,Medium,No
+VUL-2024-0440,2024-02-08,SYS-009,Misconfiguration,High,8.5,In Progress,,,Development Team,High,No
+VUL-2024-0441,2025-05-09,SYS-027,Misconfiguration,Medium,6.0,Closed,2025-05-30,21,IT Operations,Medium,No
+VUL-2024-0442,2024-11-24,SYS-014,Misconfiguration,Medium,6.7,Closed,2024-12-07,13,IT Operations,Medium,No
+VUL-2024-0443,2025-02-15,SYS-001,Weak Authentication,Medium,5.5,In Progress,,,Development Team,Medium,No
+VUL-2024-0444,2025-04-18,SYS-025,Cross-Site Scripting,Medium,5.5,Open,,,IT Operations,Medium,No
+VUL-2024-0445,2024-02-17,SYS-022,SQL Injection,Medium,6.4,Closed,2024-02-28,11,Security Team,Medium,No
+VUL-2024-0446,2024-01-21,SYS-025,Weak Authentication,Medium,5.4,In Progress,,,Security Team,Medium,No
+VUL-2024-0447,2024-01-30,SYS-007,Misconfiguration,High,8.8,Closed,2024-02-28,29,IT Operations,High,No
+VUL-2024-0448,2025-09-27,SYS-011,Buffer Overflow,Medium,4.2,Closed,2025-10-17,20,Security Team,Medium,No
+VUL-2024-0449,2025-10-31,SYS-017,SQL Injection,Medium,6.1,Closed,2025-11-17,17,Security Team,Medium,No
+VUL-2024-0450,2025-10-18,SYS-023,Outdated Software,High,8.4,Closed,2025-11-03,16,Development Team,High,Yes
+VUL-2024-0451,2025-06-18,SYS-012,Outdated Software,Low,2.6,In Progress,,,Infrastructure Team,Low,No
+VUL-2024-0452,2025-03-11,SYS-026,Outdated Software,Medium,6.2,In Progress,,,IT Operations,Medium,No
+VUL-2024-0453,2025-06-30,SYS-023,Outdated Software,Medium,6.8,Open,,,Development Team,Low,No
+VUL-2024-0454,2025-02-10,SYS-001,Cross-Site Scripting,Low,0.9,Closed,2025-02-22,12,Development Team,Low,No
+VUL-2024-0455,2024-08-18,SYS-017,Misconfiguration,Medium,6.7,Closed,2024-09-01,14,IT Operations,Medium,No
+VUL-2024-0456,2025-09-08,SYS-008,Outdated Software,Medium,4.3,Closed,2025-09-21,13,Security Team,Medium,No
+VUL-2024-0457,2025-01-16,SYS-025,Weak Authentication,Medium,6.0,Closed,2025-01-26,10,Security Team,Medium,No
+VUL-2024-0458,2024-02-02,SYS-028,Outdated Software,High,7.7,Closed,2024-02-16,14,Development Team,Medium,Yes
+VUL-2024-0459,2025-04-20,SYS-028,Weak Authentication,Critical,9.8,Closed,2025-06-09,50,IT Operations,High,No
+VUL-2024-0460,2025-03-11,SYS-016,Cross-Site Scripting,Critical,9.2,In Progress,,,Infrastructure Team,High,No
+VUL-2024-0461,2025-03-03,SYS-007,Outdated Software,Medium,6.3,Closed,2025-03-19,16,Security Team,Medium,Yes
+VUL-2024-0462,2024-12-03,SYS-012,Outdated Software,High,8.5,In Progress,,,IT Operations,High,No
+VUL-2024-0463,2024-03-20,SYS-030,Misconfiguration,High,7.5,Closed,2024-04-19,30,IT Operations,High,No
+VUL-2024-0464,2024-02-14,SYS-013,Outdated Software,Medium,4.6,Closed,2024-02-25,11,Security Team,Medium,No
+VUL-2024-0465,2025-04-26,SYS-014,Cross-Site Scripting,Medium,5.3,Closed,2025-05-12,16,Security Team,Low,No
+VUL-2024-0466,2024-02-02,SYS-008,Weak Authentication,Medium,6.7,Closed,2024-02-14,12,IT Operations,Medium,No
+VUL-2024-0467,2024-01-07,SYS-023,Cross-Site Scripting,Medium,4.6,In Progress,,,IT Operations,Low,No
+VUL-2024-0468,2025-05-13,SYS-019,Weak Authentication,High,8.0,Closed,2025-06-09,27,Security Team,Medium,No
+VUL-2024-0469,2024-01-21,SYS-029,SQL Injection,High,7.7,In Progress,,,Development Team,High,No
+VUL-2024-0470,2025-04-08,SYS-030,Misconfiguration,Critical,10.0,In Progress,,,Development Team,High,No
+VUL-2024-0471,2024-03-17,SYS-030,Misconfiguration,Medium,6.7,Closed,2024-03-30,13,Infrastructure Team,Medium,No
+VUL-2024-0472,2025-05-01,SYS-010,Outdated Software,Medium,5.0,Closed,2025-05-18,17,Infrastructure Team,Medium,No
+VUL-2024-0473,2025-04-29,SYS-012,SQL Injection,Critical,9.9,Closed,2025-06-01,33,Security Team,High,No
+VUL-2024-0474,2025-04-03,SYS-023,Misconfiguration,Medium,6.8,Open,,,IT Operations,Medium,No
+VUL-2024-0475,2024-11-20,SYS-009,Misconfiguration,High,7.3,Closed,2024-12-12,22,IT Operations,High,Yes
+VUL-2024-0476,2025-05-29,SYS-017,Cross-Site Scripting,Low,1.7,Open,,,Security Team,Low,No
+VUL-2024-0477,2025-10-04,SYS-006,Cross-Site Scripting,High,8.4,In Progress,,,Infrastructure Team,High,No
+VUL-2024-0478,2025-06-21,SYS-029,Outdated Software,Low,0.7,Closed,2025-07-03,12,Security Team,Low,No
+VUL-2024-0479,2025-04-09,SYS-019,Weak Authentication,Critical,9.2,Closed,2025-05-29,50,Security Team,High,Yes
+VUL-2024-0480,2025-06-05,SYS-016,Misconfiguration,High,7.9,Closed,2025-06-30,25,Security Team,High,Yes
+VUL-2024-0481,2024-04-14,SYS-024,SQL Injection,Low,3.6,Closed,2024-04-25,11,IT Operations,Low,No
+VUL-2024-0482,2024-03-06,SYS-028,Outdated Software,High,8.6,In Progress,,,Development Team,High,No
+VUL-2024-0483,2025-04-27,SYS-011,Outdated Software,High,7.7,Closed,2025-05-10,13,IT Operations,Medium,Yes
+VUL-2024-0484,2025-10-17,SYS-018,Buffer Overflow,Medium,4.1,Closed,2025-11-02,16,IT Operations,Medium,No
+VUL-2024-0485,2024-12-10,SYS-024,Outdated Software,Medium,5.3,Closed,2024-12-26,16,Infrastructure Team,Medium,No
+VUL-2024-0486,2025-01-21,SYS-014,Buffer Overflow,Medium,5.5,Open,,,Security Team,Medium,Yes
+VUL-2024-0487,2025-01-29,SYS-023,Cross-Site Scripting,Medium,6.6,Closed,2025-02-14,16,IT Operations,Low,No
+VUL-2024-0488,2025-05-04,SYS-003,Buffer Overflow,High,7.9,Closed,2025-05-28,24,Development Team,Medium,No
+VUL-2024-0489,2025-04-06,SYS-011,Outdated Software,Critical,9.0,Open,,,Security Team,High,Yes
+VUL-2024-0490,2025-06-02,SYS-013,Outdated Software,Medium,6.1,Closed,2025-06-14,12,Security Team,Low,No
+VUL-2024-0491,2024-01-25,SYS-008,Misconfiguration,High,7.9,Closed,2024-02-21,27,Security Team,Medium,Yes
+VUL-2024-0492,2025-03-16,SYS-014,Outdated Software,Medium,4.2,Closed,2025-03-27,11,Development Team,Medium,No
+VUL-2024-0493,2025-06-07,SYS-001,Cross-Site Scripting,Low,0.3,Closed,2025-06-22,15,Development Team,Low,No
+VUL-2024-0494,2025-07-10,SYS-010,SQL Injection,Medium,4.1,Open,,,IT Operations,Medium,No
+VUL-2024-0495,2025-03-26,SYS-018,Misconfiguration,High,8.4,Open,,,Development Team,High,No
+VUL-2024-0496,2025-06-25,SYS-013,Misconfiguration,Medium,4.2,Closed,2025-07-11,16,IT Operations,Medium,No
+VUL-2024-0497,2025-02-23,SYS-007,SQL Injection,Low,0.5,Closed,2025-03-08,13,Security Team,Low,No
+VUL-2024-0498,2025-03-26,SYS-030,Outdated Software,High,7.8,Closed,2025-04-11,16,IT Operations,High,No
+VUL-2024-0499,2025-04-16,SYS-017,Weak Authentication,Medium,5.4,Open,,,Development Team,Low,Yes
+VUL-2024-0500,2024-01-21,SYS-024,Buffer Overflow,Medium,6.5,In Progress,,,Security Team,Medium,No
