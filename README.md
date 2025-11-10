@@ -2,7 +2,7 @@
 
 **Executive Power BI Dashboard for Vulnerability Management & Compliance Tracking**
 
-![Dashboard Preview](file://C:\Users\DataLab\OneDrive\Documents\DataProjects\02_PowerBI\Documentation\powerbi-cybersecurity-dashboard\screenshots\page1_overview.png?msec=1762807135585)
+![Dashboard Preview](screenshots/page1_overview.png)
 
 ## 🔗 Live Dashboard
 
@@ -39,7 +39,7 @@ This dashboard addresses these needs by consolidating vulnerability and complian
 
 ### Page 1: Executive Summary
 
-![Executive Summary](file://C:\Users\DataLab\OneDrive\Documents\DataProjects\02_PowerBI\Documentation\powerbi-cybersecurity-dashboard\screenshots\page1_overview.png?msec=1762807135585)
+![Executive Summary](screenshots/page1_overview.png)
 
 **Purpose:** High-level operational status for C-suite and security leadership
 
@@ -67,7 +67,7 @@ This dashboard addresses these needs by consolidating vulnerability and complian
 
 ### Page 2: Vulnerability Management - Trend Analysis & At-Risk Systems
 
-![Vulnerability Management](file://C:\Users\DataLab\OneDrive\Documents\DataProjects\02_PowerBI\Documentation\powerbi-cybersecurity-dashboard\screenshots\page2_overview.png?msec=1762807135587)
+![Vulnerability Management](screenshots/page2_overview.png)
 
 **Purpose:** Detailed operational view for security teams to identify trends, aging vulnerabilities, and prioritize remediation
 
@@ -92,7 +92,7 @@ This dashboard addresses these needs by consolidating vulnerability and complian
 
 ### Page 3: Compliance Tracking - Framework Monitoring
 
-![Compliance Tracking](file://C:\Users\DataLab\OneDrive\Documents\DataProjects\02_PowerBI\Documentation\powerbi-cybersecurity-dashboard\screenshots\page3_overview.png?msec=1762807135585)
+![Compliance Tracking](screenshots/page3_overview.png)
 
 **Purpose:** Framework compliance monitoring for audit preparation and risk management
 
@@ -126,7 +126,8 @@ This dashboard addresses these needs by consolidating vulnerability and complian
 - **Fact Table:** Vulnerabilities (500 rows)
   
   - Vulnerability_ID, Date_Discovered, System_ID, Severity, Status, Days_To_Remediate, etc.
-- **Dimension Tables:**
+
+- **Dimension Tables:** 
   
   - Systems (30 rows) - System metadata and criticality
   - Compliance (200 rows) - Framework assessment data
